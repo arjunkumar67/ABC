@@ -22,6 +22,7 @@ public class School {
 		for (Failure failure : f) {
 			System.out.println("Failure Message: "+failure.getMessage());
 			
+			System.out.println("Checking Git bash");
 			
 		}
 	}
